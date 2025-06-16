@@ -89,7 +89,7 @@ krustyKrab = SandwichMachine(resources) # I like Spongebob :)
 
 is_running = True
 while is_running:
-    optionNoLowercase = input("What would you like? (small/ medium/ large/ off/ report): ")
+    optionNoLowercase = input("What? would you like? (small/ medium/ large/ off/ report): ")
     selection = optionNoLowercase.lower()
 
     if selection in recipes:
