@@ -110,8 +110,9 @@ while is_running:
         is_running = False
 
     else:
-        print("Invalid option. Please choose small, medium, large, off, or report.")
+        print("Invalid option | Please choose small, medium, large, off, or report.")
 
 
 # Sorry for submitting late!
 # 2nd Commit
+# 3rd Commit
